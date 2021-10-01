@@ -4,7 +4,7 @@
 
 # Full Project Schema
 
-<img src="../30.Schemas/arcl_private_arch.png" style="height: 900px" />
+<img src="./arcl_private_arch.png" style="height: 900px" />
 
 
 
@@ -23,7 +23,7 @@
 
 ### Schema
 
-![image-20210411193515457](../30.Schemas/private-schema.png)
+![image-20210411193515457](./private-schema.png)
 
 ### Installation
 
@@ -1244,7 +1244,7 @@ sudo openvpn --config client2.ovpn --daemon
 
 ## **Schema**
 
-**![image-20210411193515457](../30.Schemas/public-schema.png)**
+**![image-20210411193515457](./public-schema.png)**
 
 
 
